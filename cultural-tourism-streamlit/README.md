@@ -20,4 +20,4 @@ To get started with this project, you need to install the required dependencies:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MohammedAbdulRahman0704/cultural-tourism-streamlit.git
-   cd indian-art-cultural-heritage
+   cd cultural-tourism-streamlit
